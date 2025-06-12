@@ -1,0 +1,6 @@
+# Store trained models here
+*.pkl
+*.joblib
+*.h5
+*.pt
+!.gitkeep

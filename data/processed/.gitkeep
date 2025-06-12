@@ -1,0 +1,5 @@
+# Store processed/cleaned NBA data files here
+*.csv
+*.json
+*.pkl
+!.gitkeep

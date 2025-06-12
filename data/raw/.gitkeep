@@ -1,0 +1,5 @@
+# Store raw NBA data files here
+*.csv
+*.json
+*.xlsx
+!.gitkeep
