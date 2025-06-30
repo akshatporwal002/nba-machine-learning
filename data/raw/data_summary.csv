@@ -1,0 +1,16 @@
+filename,rows,columns,file_size_mb,memory_usage_mb
+lineup_stats.csv,36000,58,11.78,26.84
+league_player_stats.csv,19856,68,5.51,14.96
+player_shot_locations.csv,13988,31,2.24,22.01
+player_bio_stats.csv,13987,24,1.83,8.1
+player_clutch_stats.csv,12307,68,3.15,9.21
+player_defensive_tracking.csv,6319,15,0.53,1.86
+all_players.csv,5084,16,0.46,2.53
+player_hustle_stats.csv,5021,29,0.63,1.81
+league_team_stats.csv,1326,56,0.3,0.77
+team_shot_locations.csv,863,27,0.12,1.19
+team_clutch_stats.csv,862,55,0.18,0.45
+player_speed_distance.csv,360,16,0.04,0.11
+player_rebounding_tracking.csv,360,36,0.07,0.17
+team_hustle_stats.csv,285,21,0.03,0.07
+team_years.csv,45,5,0.0,0.0
